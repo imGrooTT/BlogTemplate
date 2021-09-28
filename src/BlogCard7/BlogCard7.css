@@ -1,0 +1,24 @@
+.blogCard7 {
+    height: 100%;
+    width: 100%;
+    background: #1B1938
+}
+
+.blogCard7Heading {
+    display: flex;
+    width: 80%;
+    margin: auto;
+    padding-top: 5%;
+    color: white;
+    font-size: 3.20rem;
+}
+
+.blogCard7Word {
+    color: #550081;
+}
+
+.blogCard7Para {
+    color: white;
+    padding-top:3%;
+    font-size: 1.25rem;
+}

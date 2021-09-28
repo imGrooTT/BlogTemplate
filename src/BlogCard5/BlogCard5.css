@@ -1,0 +1,27 @@
+.blogCard5 {
+  height: 100%;
+  width: 100%;
+  border: 3px solid tomato;
+}
+
+.blogCard5Header {
+  width: 80%;
+  margin: auto;
+  padding-top: 2%;
+  font-size: 3rem;
+}
+
+.blogCard5Content {
+  display: flex;
+  justify-content: center;
+}
+
+.blogCard5Img {
+  height: 80vh;
+  width: 80%;
+  border-radius: 20px;
+}
+
+.blogCard5Para {
+  padding-top: 5%;
+}

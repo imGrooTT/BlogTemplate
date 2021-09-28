@@ -1,0 +1,21 @@
+.blogCard6 {
+  height: 100%;
+  width: 100%;
+  background: #d8d813ec;
+}
+
+.blogCard6Img {
+  width: 100%;
+  height: 90vh;
+}
+
+.blogCard6Heading {
+  display: flex;
+  width: 80%;
+  margin: auto;
+  font-size: 3rem;
+}
+
+.blogCard6Para {
+  margin-top: 5%;
+}

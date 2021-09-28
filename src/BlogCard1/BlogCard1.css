@@ -1,0 +1,56 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,700);
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic);
+.cardImage {
+  height: 100vh;
+  background-image: url(../images/sea-image.jpg);
+}
+
+.cardTitle {
+  margin-top: 0px;
+  display: flex;
+  justify-content: center;
+  color: #9cc9e3;
+  font-family: "Roboto", sans-serif;
+}
+
+.card {
+  position: relative;
+  top: 30%;
+  font-size: 3vw;
+}
+
+.line-1 {
+  margin-top: -40px;
+  height: 4px;
+  width: 15%;
+  background: #d0bb57;
+  border: 1px solid #d0bb57;
+}
+
+.line-2 {
+  height: 10px;
+  width: 20%;
+  margin-top: 55px;
+  background: #d0bb57;
+  border: 1px solid #d0bb57;
+}
+
+.blogContent {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  text-align: justify;
+  margin-top: 5%;
+  font-size: 1.5vw;
+  color: rgb(0 0 0 / 59%);
+  font-family: "Droid Serif", serif;
+}
+
+h6 {
+  display: flex;
+  justify-content: center;
+  color: #dce3e7;
+  font-style: italic;
+  font-family: "Droid Serif", serif;
+}

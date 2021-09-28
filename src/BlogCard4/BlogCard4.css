@@ -1,0 +1,26 @@
+.blogCard4 {
+  width: 100%;
+}
+
+.blogCard4Img {
+  width: 100%;
+  height: 90vh;
+  box-shadow: 0px 14px 15px -5px;
+}
+
+.blogCard4Content {
+  height: 100%;
+  background: #4787c9;
+}
+
+.blogCard4Heading {
+  width: 80%;
+  margin: auto;
+  padding-top: 5%;
+  font-size: 3em;
+}
+
+.blogCard4Para {
+  color: white;
+  padding-top: 5%;
+}
