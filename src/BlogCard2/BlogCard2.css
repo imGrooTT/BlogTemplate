@@ -10,8 +10,8 @@
   height: 80vh;
   margin-top: 5%;
   margin-left: 10%;
-  margin-bottom: -15%;
-  box-shadow: 10px 10px 93px 0px rgb(0 0 0 / 75%);
+  margin-bottom: -4%;
+  box-shadow: 10px 10px -1px 0px rgb(0 0 0 / 75%);
 }
 
 .card {
@@ -23,6 +23,7 @@
 .blogCard2Heading {
   font-size: 1.5em;
   width: 80%;
+  
   margin: auto;
   font-family: "Abril Fatface", serif;
   color: #4b4b4b;
